@@ -20,3 +20,6 @@ Conducted by Code Warriors
 - Features of Flutter
 - Advantages of Flutter
 - Disadvantages of Flutter
+
+Refer to the class note <a href="https://github.com/Amchuz/30-Days-of-Flutter/blob/master/Day%201/Note.md">here</a>
+If interested you can check the Dart Developer Summit 2015 <a href="https://youtu.be/PnIWl33YMwA">"Sky: An Experiment Writing Dart for Mobile"</a>
