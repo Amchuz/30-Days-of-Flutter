@@ -4,8 +4,28 @@ Flutter is a UI toolkit for building fast, beautiful, natively compiled applicat
 <details>
 <summary>Flutter Story</summary>
 It was initially known as codename "Sky" and can run on android device. On December 2018, the first stable version of Flutter framework was released (Flutter 1.0)
+  <img src="https://valianttechnosoft.com/wp-content/uploads/2020/01/brief-history-of-Flutter.png">
 </details>
   
 # What makes Flutter Unique ?
   
 Flutter is different from other frameworks because it neither uses WebView nor the OEM widgets that shipped with the device. Instead, it uses it's own high performance rendering engine to draw widgets. It also implements most of it's systems such as animation, gestures and widgets in Dart programming language that allows developers to read, change, replace, or remove things easily. It gives excellent control to developers over the system. 
+  
+# Features of Flutter
+  
+- Open-source
+- Hot Reload
+- Widgets
+- Cross-platform
+- Minimal code
+- Accessible Native features and SDKs
+  
+# Advantages of Flutter
+  
+- It makes app development process extremely fast because of hot-reload feature.
+- Flutter reduces the time and efforts of testing.
+- It provides smoother and seamless scrolling experiences of using the app without much hangs or cuts, which makes running applications faster in comparison to other mobile app development frameworks.
+  
+# Disadvantages of Flutter
+  
+- 
