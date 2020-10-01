@@ -7,9 +7,13 @@ It was initially known as codename ‘SKY’ and can run only on the Android OS.
   <img src="https://valianttechnosoft.com/wp-content/uploads/2020/01/brief-history-of-Flutter.png">
 </details>
   
-# What makes Flutter Unique ?
+# Why Flutter ?
   
 <img src="https://miro.medium.com/max/624/1*zaLm6o4pxhT5geA7MkY7nw.png">
+  
+One can easily use the Flutter UI toolkit for creating fast, beautiful, natively compiled applications create desktop, embedded, mobile and web applications using flutter as it facilitates cross-platform application development, using the same codebase. This not only saves time and effort of the developers but is cost-effective too. What’s also worth knowing is that Flutter apps are built with Google’s programming language Dart. In release mode, it is compiled Ahead-of-Time (AOT) into native code for multiple platforms, allowing Flutter to communicate with the platform without the need to go through a JavaScript bridge. This improves the app startup time and its overall performance. In development mode, though, Flutter is compiled Just-in-Time — which is what makes it possible to hot-reload/restart fast. It is mainly optimized for developing 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps, including camera, storage, geolocation, network, third-party SDKs, and more.
+  
+# What makes Flutter Unique ?
   
 Flutter is different from other frameworks because it neither uses WebView nor the OEM widgets that shipped with the device. Instead, it uses it's own high performance rendering engine to draw widgets. It also implements most of it's systems such as animation, gestures and widgets in Dart programming language that allows developers to read, change, replace, or remove things easily. It gives excellent control to developers over the system. 
   
@@ -27,6 +31,8 @@ Flutter is different from other frameworks because it neither uses WebView nor t
 - It makes app development process extremely fast because of hot-reload feature.
 - Flutter reduces the time and efforts of testing.
 - It provides smoother and seamless scrolling experiences of using the app without much hangs or cuts, which makes running applications faster in comparison to other mobile app development frameworks.
+- Separates UI from native controls.
+- Create a wide variety of apps.
   
 # Disadvantages of Flutter
   
