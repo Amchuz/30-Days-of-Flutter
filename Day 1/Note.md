@@ -28,4 +28,8 @@ Flutter is different from other frameworks because it neither uses WebView nor t
   
 # Disadvantages of Flutter
   
-- 
+- Flutter is a comparatively new language that needs continuous integration support through the maintainance of the scripts.
+- It uses Dart programming for coding, so a developer needs to learn new technologies. (However, it is easy to learn for developers.)
+- It provides very limited access to SDK libraries. It means a developer does not have a lot of functionalities to create a mobile application. Such types of functionalities needs to be developed by the Flutter developer themselves.
+  
+
