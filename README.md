@@ -15,6 +15,7 @@ Conducted by Code Warriors
 ### Topics :
   
 - What is Flutter ?
+- Why Flutter ?
 - What makes Flutter Unique ?
 - Features of Flutter
 - Advantages of Flutter
