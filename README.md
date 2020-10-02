@@ -23,3 +23,18 @@ Conducted by Code Warriors
 
 Refer to the class note <a href="https://github.com/Amchuz/30-Days-of-Flutter/blob/master/Day%201/Note.md">here.</a> \
 If interested you can check the Dart Developer Summit 2015 <a href="https://youtu.be/PnIWl33YMwA">"Sky: An Experiment Writing Dart for Mobile"</a>
+<br/>
+  
+## Day 2 
+  
+**Date :** October 2 2020  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Sources Provided :** <b><a href="https://youtu.be/XFZObRVjGno">Youtube</a></b> | <b><a href="https://medium.com/@codewarriors/flutter-installation-dd16d4d1a333?sk=c560d25c633ff572f8ac961811eb0ccd">Medium</a></b>
+  
+### Topics :
+  
+- Flutter Installation
+  
+  - System Requirements
+  - Install Flutter SDK
+  - Install Git
+
+Refer to the class note <a href="https://github.com/Amchuz/30-Days-of-Flutter/blob/master/Day%202/Note.md">here.</a> 
