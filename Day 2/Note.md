@@ -26,7 +26,7 @@
      
 <br/>
   
-  - **Step 4.2 :** Now, select path -> click on edit. The following screen appears.
+- - **Step 4.2 :** Now, select path -> click on edit. The following screen appears.
   
 <br/>  
   
@@ -34,10 +34,11 @@
   
 <br/>
   
-  - **Step 4.3 :** In the above window, click on New->write path of Flutter bin folder in variable value -> ok -> ok -> ok.
+- - **Step 4.3 :** In the above window, click on New->write path of Flutter bin folder in variable value -> ok -> ok -> ok.
   
 - **Step 5 :** Now, run the $ flutter doctor command. This command checks for all the requirements of Flutter app development and displays a report of the status of your Flutter installation.
   
 ```
 $ flutter doctor
 ```
+  
