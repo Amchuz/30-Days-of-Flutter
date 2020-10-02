@@ -18,17 +18,13 @@
   
 - **Step 4 :** To run the Flutter command in regular windows console, you need to update the system path to include the flutter bin directory. The following steps are required to do this:
 
-  - **Step 4.1 :** Go to MyComputer properties -> advanced tab -> environment variables. You will get the following screen \
-&nbsp;
+  - **Step 4.1 :** Go to MyComputer properties -> advanced tab -> environment variables. You will get the following screen 
  
   <img src="https://miro.medium.com/max/700/1*xMoVr7xH9gLd1JG8e-SnSQ.png" height=420 width=320>
-&nbsp;
   
-  - **Step 4.2 :** Now, select path -> click on edit. The following screen appears. \
-&nbsp;
+  - **Step 4.2 :** Now, select path -> click on edit. The following screen appears.
 
   <img src="https://miro.medium.com/max/598/1*0J19c1KtqtPJqfPbRIn0nw.png" height=420 width=320>
-&nbsp;
 
   - **Step 4.3 :** In the above window, click on New->write path of Flutter bin folder in variable value -> ok -> ok -> ok.
   
