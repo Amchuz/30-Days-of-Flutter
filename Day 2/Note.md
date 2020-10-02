@@ -44,7 +44,7 @@ $ flutter doctor
   
   - **Step 7.2 :** When the download is complete, open the .exe file and run it. You will get the following dialog box.
   
-  <img src="https://miro.medium.com/max/499/0*x93mfIFJKU-aRL-e.png:>
+  <img src="https://miro.medium.com/max/499/0*x93mfIFJKU-aRL-e.png">
   
   - **Step 7.3 :** Follow the steps of the installation wizard. Once the installation wizard completes, you will get the following screen.
   
