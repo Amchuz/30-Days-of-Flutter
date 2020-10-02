@@ -25,17 +25,19 @@
   <img src="https://miro.medium.com/max/700/1*xMoVr7xH9gLd1JG8e-SnSQ.png" height=420 width=320>
      
 <br/>
-    
+  
   - **Step 4.2 :** Now, select path -> click on edit. The following screen appears.
   
 <br/>  
   
   <img src="https://miro.medium.com/max/598/1*0J19c1KtqtPJqfPbRIn0nw.png" height=420 width=320>
-    
+  
+<br/>
+  
   - **Step 4.3 :** In the above window, click on New->write path of Flutter bin folder in variable value -> ok -> ok -> ok.
   
 - **Step 5 :** Now, run the $ flutter doctor command. This command checks for all the requirements of Flutter app development and displays a report of the status of your Flutter installation.
   
-'''
+```
 $ flutter doctor
-'''
+```
