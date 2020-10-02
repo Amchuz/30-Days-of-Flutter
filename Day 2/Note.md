@@ -4,6 +4,14 @@
   
 <img src="https://miro.medium.com/max/700/1*13sEr0fNth295eQGxuuNng.png">
   
+<br/>
+  
+**-> For Linux :**<a href="https://youtu.be/VGs-y_kL_Eg"> Click here</a> \
+**-> For Mac :**<a href="https://youtu.be/Xy-qHlaHr6c"> Click here</a> \
+**-> For Windows :** Scroll down
+  
+<br/>
+  
 ## Install the Flutter SDK
   
 - **Step 1 :** To download flutter SDK, Go to the official <a href="https://flutter.dev/">website</a> and click on the **Get Started** Button available at the bottom of the page and from there you will be redirected to the following screen.
