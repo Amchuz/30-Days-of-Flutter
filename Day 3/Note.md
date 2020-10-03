@@ -18,3 +18,12 @@ You can also run sample programs given at the top right side of the page.
   
 ## Hello World!
   
+Every app has a main() function. To display text on the console, you can use the top-level print() function :
+  
+```
+void main() {
+print(‘Hello, World!’);
+} 
+
+Output: Hello, World!
+```
