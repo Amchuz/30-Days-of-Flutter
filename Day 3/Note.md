@@ -181,10 +181,21 @@ is! | False if the object has the specified type
 ### 4. Bitwise Operators
   
 Operator | Description | Example
-| :---: | :---: | :---: 
+| :---: | :---: | :---
 Bitwise AND | a & b | Returns a one in each bit position for which the corresponding bits of both operands are ones.
 Bitwise OR | a \| b | Returns a one in each bit position for which the corresponding bits of either or both operands are ones.
 Bitwise XOR | a ^ b | Returns a one in each bit position for which the corresponding bits of either but not both operands are ones.
 Bitwise NOT | ~ a | Inverts the bits of its operand.
 Left shift | a ≪ b | Shifts a in binary representation b (< 32) bits to the left, shifting in zeroes from the right.
 Signpropagating right shift | a ≫ b | Shifts a in binary representation b (< 32) bits to the right, discarding bits shifted off.
+  
+### 5. Assignment Operators
+  
+Operator | Description
+| :---: | :---: 
+= (Simple Assignment ) | Assigns values from the right side operand to the left side operand. <br> Ex:C = A + B will assign the value of A + B into C
+??= | Assign the value only if the variable is null
++= (Add and Assignment) | It adds the right operand to the left operand and assigns the result to the left operand. <br> Ex: C += A is equivalent to C = C + A
+─= (Subtract and Assignment) | It subtracts the right operand from the left operand and assigns the result to the left operand. <br> Ex: C -= A is equivalent to C = C – A
+\*= (Multiply and Assignment) | It multiplies the right operand with the left operand and assigns the result to the left operand. <br> Ex: C \*= A is equivalent to C = C \* A
+/=(Divide and Assignment) | It divides the left operand with the right operand and assigns the result to the left operand.
