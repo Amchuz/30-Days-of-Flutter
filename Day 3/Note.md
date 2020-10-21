@@ -159,3 +159,14 @@ Operator | Meaning
 % | Get the remainder of an integer division (modulo)
 ++ | Increment
 -- | Decrement
+  
+### 2. Equality and Relational Operators
+  
+Operator | Description | Example
+| :---: | :---: | :---: 
+\> | Greater than | (A > B) is False
+< | Lesser than | (A < B) is True
+\>= | Greater than or equal to | (A >= B) is False
+<= | Lesser than or equal to | (A <= B) is True
+== | Equality | (A==B) is False
+!= | Not equal | (A!=B) is True
