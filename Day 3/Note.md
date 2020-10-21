@@ -207,3 +207,23 @@ Operator | Description | Example
 && | And − The operator returns true only if all the expressions specified return true | (A > 10 && B > 10) is False.
 \|\| | OR − The operator returns true if at least one of the expressions specified return true | (A > 10 \|\| B > 10) is True.
 ! | NOT − The operator returns the inverse of the expression’s result. For E.g.: !(7>5) returns false | !(A > 10) is True.
+  
+### Conditional Expressions
+  
+Dart has two operators that let you evaluate expressions that might otherwise require ifelse statements 
+  
+condition ? expr1 : expr2
+  
+If condition is true, then the expression evaluates expr1 (and returns its value); otherwise, it evaluates and returns the value of expr2.
+expr1 ?? expr2. If expr1 is non-null, returns its value; otherwise, evaluates and returns the value of expr2 
+  
+```
+void main() { 
+   var a = null; 
+   var b = 12; 
+   var res = a ?? b; 
+   print(res); 
+}
+
+Output : 12
+```
