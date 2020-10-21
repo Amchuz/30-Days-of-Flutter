@@ -170,3 +170,10 @@ Operator | Description | Example
 <= | Lesser than or equal to | (A <= B) is True
 == | Equality | (A==B) is False
 != | Not equal | (A!=B) is True
+  
+### 3. Type test Operators
+  
+Operator | Meaning
+| :---: | :---:
+is | True if the object has the specified type
+is! | False if the object has the specified type
