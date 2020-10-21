@@ -105,4 +105,57 @@ Dart is an optionally typed language. If the type of the variable is not explici
   
 ## Variables and Functions :
   
- 
+A **variable** is a named space in the memory that stores values. It act as a container for values in a program. Variable names are called identifiers. \
+Naming rules for identifiers are:
+  
+- Identifiers cannot be keywords.
+- Identifiers can contain alphabets and numbers.
+- Identifiers cannot contain spaces and special characters, except the underscore ‘_’ and dollar sign ‘$’.
+- Variable names cannot begin with a number.
+  
+eg: var my =16;
+  
+Here, 'my' is a variable that stores an integer value 16. We can give it int and double. Since dart has a feature called Type Inference, which infers the types of values.
+
+**Functions** are a set of statements that performs a specific task. These are the logical blocks of code that are reusable, maintainable, and readable. It contains the function name, return type, and parameters.
+
+eg:
+  
+```
+num add(num a, num b) {
+return a + b;
+}
+var x = 30;
+var y = 20;
+var total = add(x, y);
+```
+## Operators :
+  
+An expression is a special kind of statement that evaluates to a value. Every expression is composed of
+  
+- Operands − Represents the data
+- Operator − Defines how the operands will be processed to produce a value.
+  
+Consider the following expression – "2 + 3". In this expression, 2 and 3 are operands and the symbol "+" (plus) is the operator.
+Different operators are :
+  
+1. Arithmetic Operators
+2. Equality and Relational Operators
+3. Type test Operators
+4. Bitwise Operators
+5. Assignment Operators
+6. Logical Operators
+  
+### 1. Arithmetic Operators
+  
+Operator | Meaning
+| :---: | :---: 
+\+ | Add 
+−  | Subtract
+-expr | Unary minus, also known as negation (reverse the sign of the expression)
+\* | Multiply
+/ | Divide
+~/ | Divide, returning an integer result
+% | Get the remainder of an integer division (modulo)
+++ | Increment
+-- | Decrement
