@@ -230,9 +230,12 @@ Output : 12
   
 ## Decision Making :
   
-Statement | Description
-| :---: | :---
-if statement | An if statement consists of a Boolean expression followed by one or more statements.
-If...Else Statement | An if can be followed by an optional else block. The else block will execute if the Boolean expression tested by the if block evaluates to false.
-else…if Ladder | The else…if ladder is useful to test multiple conditions. Following is the syntax of the same.
-switch…case Statement | The switch statement evaluates an expression, matches the expression’s value to a case clause and executes the statements associated with that case.
+Statement | Description | Example
+| :---: | :--- | :---
+if statement | An if statement consists of a Boolean expression followed by one or more statements. | if(a=b){ <br> sum=a+b <br> }
+If...Else Statement | An if can be followed by an optional else block. The else block will execute if the Boolean expression tested by the if block evaluates to false. | if(a=b){ <br> sum=a+b <br> } <br> else { <br> sum = a <br> }
+else…if Ladder | The else…if ladder is useful to test multiple conditions. Following is the syntax of the same. | if(a=b){ <br> sum=a+b <br> } <br> else if(b>a) { <br> sum=b <br> } <br>else { <br> sum = a <br> }
+switch…case Statement | The switch statement evaluates an expression, matches the expression’s value to a case clause and executes the statements associated with that case. | switch(condition){ <br> case 1 : {statements} <br> case 2 : .... <br> ... <br> }
+  
+## Loops :
+  
