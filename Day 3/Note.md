@@ -205,5 +205,5 @@ Operator | Description
 Operator | Description | Example
 | :---: | :---: | :---:
 && | And − The operator returns true only if all the expressions specified return true | (A > 10 && B > 10) is False.
-\|\| | OR − The operator returns true if at least one of the expressions specified return true | (A > 10 || B > 10) is True.
+\|\| | OR − The operator returns true if at least one of the expressions specified return true | (A > 10 \|\| B > 10) is True.
 ! | NOT − The operator returns the inverse of the expression’s result. For E.g.: !(7>5) returns false | !(A > 10) is True.
