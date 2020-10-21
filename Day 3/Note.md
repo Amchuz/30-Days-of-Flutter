@@ -199,3 +199,11 @@ Operator | Description
 ─= (Subtract and Assignment) | It subtracts the right operand from the left operand and assigns the result to the left operand. <br> Ex: C -= A is equivalent to C = C – A
 \*= (Multiply and Assignment) | It multiplies the right operand with the left operand and assigns the result to the left operand. <br> Ex: C \*= A is equivalent to C = C \* A
 /=(Divide and Assignment) | It divides the left operand with the right operand and assigns the result to the left operand.
+  
+### 6. Logical Operators
+  
+Operator | Description | Example
+| :---: | :---: | :---:
+&& | And − The operator returns true only if all the expressions specified return true | (A > 10 && B > 10) is False.
+\|\| | OR − The operator returns true if at least one of the expressions specified return true | (A > 10 || B > 10) is True.
+! | NOT − The operator returns the inverse of the expression’s result. For E.g.: !(7>5) returns false | !(A > 10) is True.
