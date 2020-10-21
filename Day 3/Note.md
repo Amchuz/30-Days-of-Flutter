@@ -239,3 +239,9 @@ switch…case Statement | The switch statement evaluates an expression, matches 
   
 ## Loops :
   
+Loop | Description
+| :---: | :---
+for loop | The for loop is an implementation of a definite loop. The for loop executes the code block for a specified number of times. It can be used to iterate over a fixed set of values, such as an array
+for…in Loop | The for...in loop is used to loop through an object's properties.
+while Loop | The while loop executes the instructions each time the condition specified evaluates to true. In other words, the loop evaluates the condition before the block of code is executed.
+do…while Loop | The do…while loop is similar to the while loop except that the do...while loop doesn’t evaluate the condition for the first time the loop executes.
