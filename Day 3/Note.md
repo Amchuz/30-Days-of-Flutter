@@ -231,7 +231,7 @@ Output : 12
 ## Decision Making :
   
 Statement | Description
-| :---: | :---: 
+| :---: | :---
 if statement | An if statement consists of a Boolean expression followed by one or more statements.
 If...Else Statement | An if can be followed by an optional else block. The else block will execute if the Boolean expression tested by the if block evaluates to false.
 else…if Ladder | The else…if ladder is useful to test multiple conditions. Following is the syntax of the same.
