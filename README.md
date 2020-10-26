@@ -39,6 +39,6 @@ If interested you can check the Dart Developer Summit 2015 <a href="https://yout
 
 Refer to the class note <a href="https://github.com/Amchuz/30-Days-of-Flutter/blob/master/Day%202/Note.md">here.</a> 
   
-## Day 2 
+## Day 3 
   
-**Date :** October 2 2020
+**Date :** October 3 2020
