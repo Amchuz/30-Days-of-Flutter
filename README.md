@@ -42,3 +42,7 @@ Refer to the class note <a href="https://github.com/Amchuz/30-Days-of-Flutter/bl
 ## Day 3 
   
 **Date :** October 3 2020
+
+## Day 4 
+  
+**Date :** October 4 2020
